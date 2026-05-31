@@ -65,6 +65,10 @@ Thank you, and enjoy!
 04 - [Merged In Dreams - Ne Plus Ultra](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/04%20Merged%20In%20Dreams.txt)  
 05 - [The Purpose](https://github.com/doomsean/tabs/blob/master/Elder/Innate%20Passage/05%20The%20Purpose.txt)
 
+#### Elder - Liminality / Dream State Return (2025)
+
+01 - [Liminality](https://github.com/doomsean/tabs/blob/master/Elder/Liminality/01%20Liminality.txt)
+
 #### Elephant Gym - Work (2018)
 
 03 - [D](https://github.com/doomsean/tabs/blob/master/Elephant%20Gym/Work/03%20D.txt)
